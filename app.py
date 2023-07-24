@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return 'etho one'
+    return 'etho rendu'
 
  
 
