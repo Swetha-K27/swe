@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return 'swetha.kr 27 '
+    return 'swe '
 
  
 
